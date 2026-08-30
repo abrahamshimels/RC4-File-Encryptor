@@ -1,0 +1,2 @@
+This is the sample content for the RC4 file encryptor.
+It should be preserved exactly after encryption and decryption.
